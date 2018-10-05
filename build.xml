@@ -5,7 +5,7 @@
               directory with the processing instruction <?eclipse.ant.import?>
               as the first entry and export the buildfile again. --><project basedir="." default="build" name="testTravis2">
     <property environment="env"/>
-    <property name="ECLIPSE_HOME" value="../../../../../private/var/folders/q5/nghhwhkj1h18l7htsdrj6fv00000gn/T/AppTranslocation/32872E52-F7C3-4B76-833F-235A98AD0D5D/d/Eclipse.app/Contents/Eclipse/"/>
+    <property name="ECLIPSE_HOME" value="../../../../../private/var/folders/q5/nghhwhkj1h18l7htsdrj6fv00000gn/T/AppTranslocation/CB377057-EAD5-4A46-95E1-41C990CA125C/d/Eclipse.app/Contents/Eclipse/"/>
     <property name="debuglevel" value="source,lines,vars"/>
     <property name="target" value="1.8"/>
     <property name="source" value="1.8"/>
